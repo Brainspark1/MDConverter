@@ -38,10 +38,6 @@ This allows you to easily move between formatted text and Markdown syntax.
 - macOS 13 or later
 - Intel or Apple Silicon Mac
 
-## Developer
-
-Nihaal Garud
-
 ## Website
 
 https://md-converter-website.vercel.app
